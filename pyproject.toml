@@ -1,6 +1,6 @@
 [project]
 name = "drf-around"
-version = "0.0.1"
+version = "0.0.1.5"
 authors = [
   { name="Vitalii Korniichuk", email="iamkorniichuk@gmail.com" },
 ]
